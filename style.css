@@ -4,16 +4,24 @@
     margin: 0;
 }
 
-.superga{
+.item{
     width: 100%;
     height: 100vh;
-    background-color: red;
     position: relative;
+}
+
+.superga{
+    background-color: red;
+}
+.stan-smith{
+    background-color: green;
+}
+.converse{
+    background-color: yellow;
 }
 
 .shoes{
     width: 500px;
-    height: 100%;
     margin: auto;
     position: absolute;
     top: 50%;
